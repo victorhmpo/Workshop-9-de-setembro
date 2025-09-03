@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+    height: auto;
+    background-color: blue;
+}
+h1 {
+    color: rgb(134, 134, 232);
+    background-color: rgb(69, 64, 64);
+}
+h2 {
+    height: 30px;
+    text-size-adjust: 25px;
+    background-color: rgb(100,100,100, 0.3);
+    text-shadow: 20px 20px 20px black;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    height: auto;
+    background-color: rgb(3, 3, 48);
+}
+h1, h2 {
+    text-align: center;
+}

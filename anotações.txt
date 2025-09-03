@@ -1,0 +1,19 @@
+HTML é como um jornal. Não tem cor nem nada. Só tem texto.
+
+Tem que fazer o que você quer fazer!
+
+Fazer um site sobre algo que você gosta!
+
+Exemplo: CSGO (projeto de 7 meses)
+
+Contra-exemplo: culinária
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+  git config --global user.email "victorhmpo@gmail.com"
+  git config --global user.name "Victorhmpo"
+
+commit = publicar mensagem da versão de software para desenvolvedores
+
+deploy = publicar o software para o público usar
